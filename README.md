@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Engineering College, Ajmer<br> CS'26 <br>Web developer <br>REACT ,<br> MERN <br>DSA JAVA <br>mySQL <br>Spring Boot
+Student at Engineering College, Ajmer<br> CS Undergrad | Aspiring Data Scientist | Python Programmer | Frontend Developer (HTML, CSS, JS, React) | Practicing DSA | Proficient in Java Fundamentals | Building Real-World Data-Driven Solution <br>mySQL <br>Spring Boot
 
 
 ## 🌐 Socials:
